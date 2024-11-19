@@ -9,7 +9,7 @@ const Projects = () => {
   return (
     <div id="Projects" className="p-10 md:p-24 text-white ">
       <h1 className="text-2xl md:text-4xl text-white font-bold">Projects</h1>
-      <div className="py-12 px-8 flex flex-wrap gap-5">
+      <div className="py-12 px-8 flex flex-wrap lg:justify-around gap-5">
         <ProjectCard
           title="Chat Application concept"
           main="Designed an intuitive chat web application in Figma, focusing on seamless user experience and modern interface."
