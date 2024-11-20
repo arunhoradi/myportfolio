@@ -1,6 +1,7 @@
 import React from "react";
-import avatarImg from "../../assets/arunhoradi.png";
+import avatarImg from "../../assets/avatarimage.png";
 import TextChange from "../TextChange";
+
 
 const Home = () => {
   const scrollToSection = (id) => {
@@ -19,7 +20,7 @@ const Home = () => {
         </button>
       </div>
       <div>
-        <img className=" w-70 h-80 lg:w-90 lg:h-100 shadow-lg shadow-indigo-400 " src={avatarImg} alt="" />
+        <img className=" w-full h-full" src={avatarImg} alt="" />
       </div>
     </div>
   );

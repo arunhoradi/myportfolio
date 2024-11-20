@@ -10,13 +10,13 @@ const Footer = () => {
       className="flex justify-around bg-[#465697] text-white p-10 md:p-12 items-center"
     >
       <div>
-        <h1 className="text-2xl md:text-6xl font-bold">Contact</h1>
-        <h3 className="text-sm md:text-2xl font-normal">
+        <h1 className="text-xl md:text-6xl font-bold">Contact</h1>
+        <h3 className="text-xs md:text-2xl font-normal">
           Feel Free To reach out!
         </h3>
       </div>
 
-      <ul className="text-sm md:text-xl">
+      <ul className="text-xs md:text-xl">
         <li className="flex gap-1 items-center">
           <MdOutlineEmail size={20} />
           arunhoradi@gmail.com

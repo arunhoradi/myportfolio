@@ -5,7 +5,7 @@ const Navbar = () => {
   
   return (
     <nav className="flex flex-wrap justify-between md:items-center text-white px-10 pt-6 md:px-20">
-      <span className="text-xl font-bold tracking-wide">Portfolio</span>
+      <span className="text-xl  tracking-wider lg:tracking-widest">ARUN HORADI</span>
 
       <ul onClick={() => {
           setMenu(!menu)}}
