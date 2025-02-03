@@ -11,22 +11,7 @@ const Home = () => {
       <div className="md:w-2/4 md:pt-10 ">
         <h1 className="text-4xl md:text-6xl xl:text-8xl font-bold flex leading-normal tracking-tighter">
           <TextChange />
-          <!-- Put this code anywhere in the body of your page where you want the badge to show up. -->
-
-<div itemscope itemtype='http://schema.org/Person' class='fiverr-seller-widget' style='display: inline-block;'>
-     <a itemprop='url' href=https://www.fiverr.com/arunhoradi rel="nofollow" target="_blank" style='display: inline-block;'>
-        <div class='fiverr-seller-content' id='fiverr-seller-widget-content-fdd5c0e3-bea6-4b19-9c94-73f5b1a8d6ff' itemprop='contentURL' style='display: none;'></div>
-        <div id='fiverr-widget-seller-data' style='display: none;'>
-            <div itemprop='name' >arunhoradi</div>
-            <div itemscope itemtype='http://schema.org/Organization'><span itemprop='name'>Fiverr</span></div>
-            <div itemprop='jobtitle'>Seller</div>
-            <div itemprop='description'>Hi there! I’m Arun, a 4-year seasoned web developer specializing in crafting stunning, pixel-perfect landing pages and websites that convert visitors into loyal customers. Armed with Webflow’s no-code power, React’s dynamic interactivity, and Tailwind CSS’s sleek styling, I turn your vision into a high-performance digital experience.
-💡 I Deliver:
-✔️ Landing Pages That Sell (Mobile-First & SEO-Friendly)
-✔️ Custom Webflow & React Websites (Zero Templates, 100% Unique)
-✔️ Revamps That Skyrocket Engagement & Conversions
-✔️ Seamless Integrations (CMS, APIs, Payment Gateways)
-✔️ 5 Days Delivery </div>
+         
         </div>
     </a>
 </div>
